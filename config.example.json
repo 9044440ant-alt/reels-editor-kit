@@ -1,0 +1,11 @@
+{
+  "work_dir": "~/Movies/Монтаж",
+  "whisper_model": "~/.cache/whisper-cpp/ggml-large-v3-turbo.bin",
+  "vosk_model": "~/.cache/vosk/vosk-model-small-ru-0.22",
+  "language": "ru",
+  "style": "C",
+  "accent": "lime",
+  "size_k": 0.9,
+  "grade": {"preset": "cine", "k": 1.0},
+  "telegram": false
+}

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+assets/bin/
+assets/sfx/*.wav
+assets/luts/
+*.mp4
+*.mov
+*.MOV
+*.wav
+*.session
+*.env
+.DS_Store
